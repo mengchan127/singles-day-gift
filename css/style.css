@@ -1,0 +1,11 @@
+body,html{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+#container{
+	width: 1000px;
+	margin: 20px auto;
+	background: #0A1026;
+
+}
